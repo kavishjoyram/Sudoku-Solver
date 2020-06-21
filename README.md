@@ -1,0 +1,2 @@
+# Sudoku-Solver
+ A simple solver for Sudoku made with python using the pygame module. To play, run main.py  - INSTRUCTIONS -   Click the box you want and input the number using your keyboard. If you are okay with the number, hit ENTER to then confirm the value. If you aren't okay with a number input, hit the DELETE key. To solve the Sudoku game, hit SPACE and watch as the algorithm solves it for you.  Enjoy!  Follow me on  - instagram @kavishoncrack   - twitter @Kjoyram
